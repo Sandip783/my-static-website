@@ -32,7 +32,6 @@ jobs:
         with:
           app-name: 'SarabEats'
           slot-name: 'Production'
-          package: .
 
           package: .
 
