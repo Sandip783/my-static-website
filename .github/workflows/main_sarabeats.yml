@@ -30,7 +30,7 @@ jobs:
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'sarabeats-cwgre7dhhug5ezcy'
+          app-name: 'SarabEats'
           slot-name: 'Production'
 
           package: .
